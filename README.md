@@ -1,10 +1,10 @@
 How to run the test:
 
-Open the project in Eclipse.
-Click on the TestNG.xml file.
-Right-click >> Run as >> TestNG Suite.
+1. Open the project in Eclipse.
+2. Click on the TestNG.xml file.
+3. Right-click >> Run as >> TestNG Suite.
 
 or
 
-Open the "tendableProject" file from the "com.demo.pages" directory.
-Right-click >> Run as >> TestNG Suite.
+1. Open the "tendableProject" file from the "com.demo.pages" directory.
+2. Right-click >> Run as >> TestNG Suite.
